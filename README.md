@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jasperspyke
-- 👀 I’m interested in ... brain science and data analysis
-- 🌱 I’m currently learning ... python
+- 👀 I’m interested in ... brain science and stats
+- 🌱 I’m currently learning ... pytorch/machine learning
 - 💞️ I’m looking to collaborate on ... whatever's interesting
 - 📫 How to reach me ... jasperhilliard17@gmail.com
 
