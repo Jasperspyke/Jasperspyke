@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jasperspyke
+- 👋 Hi, I’m Jasper
 - 👀 I’m interested in ... brain science and stats
 - 🌱 I’m currently learning ... pytorch/machine learning
 - 💞️ I’m looking to collaborate on ... whatever's interesting
